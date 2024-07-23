@@ -12,9 +12,7 @@ README_CONTENT_CHECK_FOR = [
     'called',
     'closure',
     'global',
-    'count',
-    'dictioanry',
-    'variable'
+    'count'
 ]
 
 
