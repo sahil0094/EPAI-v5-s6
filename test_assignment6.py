@@ -6,8 +6,7 @@ import S6_assignment as s6
 import pytest
 
 README_CONTENT_CHECK_FOR = [
-    'generate_my_next_number',
-    'min_count',
+    'counter',
     'docstring',
     'fibonacci',
     'called',
