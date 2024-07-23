@@ -27,7 +27,7 @@ In this Task we need a function to calculate the next fibonacci number, here we 
 
 
 
-#### **Task 3**
+###### **Task 3**
 
 This task is slight addition to the previous task, here we define 4 functions i.e. `add`, `mul`, `sub`, and `div`. in this task we keep a global dictionary `fn_cnt_dict` to have a check on how many times each operation is being called. so here we define a function `counter` which takes in function as a parameter, the    non local variable  cnt_add, cnt_mul, cnt_div is the value obtained from the key of the global dictioanry as function name. Here we define a closure called inner which takes in  `a` and `b` as parameters, which are the numbers over which each operation will be perfomed. The function updated the global dictionary and returns the count
 
