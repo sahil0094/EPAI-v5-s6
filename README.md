@@ -1,6 +1,6 @@
 # EPAI-v5-s6
 
-<h1 align="center">Closures</h1>
+<h1 align="center">Local & global scope, Non Local Scope, Closures, </h1>
 
 <h2 align="center"> Assignment Question </h2>
 
@@ -11,7 +11,7 @@
 
 No readme or no docstring for each function, or no test cases, 0. Write test cases to check boundary conditions that might cause your code to fail. 
 
-<h2 align="center"> Assignment Solution </h2>
+<h2 align="center"> Assignment Solution 6 </h2>
 
 Here we have various small tasks as mentioned above, so lets take them one at a time
 
@@ -38,5 +38,5 @@ In this task we need to calculate how many times a function is being called, so 
 ### Test Cases
 
 There are test case for to check the working of each task function. There are some general test cases of checking documentation of the project and the python files,There are testcases to check to whether they are acutally closures or not.
-
+We need to create test cases ourselves and create a workflow with github actions for autograding
 ---
